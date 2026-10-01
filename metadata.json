@@ -1,0 +1,6 @@
+{
+  "name": "Kestrel Telemetry",
+  "description": "High-performance self-hosted homelab network and service telemetry monitor with eBPF probes, zero-cloud sovereignty, and real-time topology mesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
